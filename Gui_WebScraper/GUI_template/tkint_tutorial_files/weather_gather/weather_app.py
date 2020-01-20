@@ -33,8 +33,8 @@ lower_frame = Frame(root,bg='#99b3ff', bd=10)
 lower_frame.place(relx=.5, rely=.25, relwidth=.75,relheight=.6,anchor='n')
 
 # Just a Label
-label = Label(lower_frame, text='Hello this is a label', bg='yellow')
-label.place(relx=0.3,rely=0, relwidth=0.45,relheight=.25)
+label = Label(lower_frame, )
+label.place(relwidth=1,relheight=1)
 
 
 root.mainloop()
