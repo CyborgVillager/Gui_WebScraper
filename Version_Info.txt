@@ -46,7 +46,10 @@ v5 Extra Information: Working on a more recent tkinter documentation/video thank
                         more updated tkinter tutorial Will be updating this folder with the new information, then
                         will be implementing the new things that I've learned onto the job searching GUI project.
 
---v6 Button Added to Frame: Updated the color scheme of the background, and updated the button. Visual helps on the
+v6 Button Added to Frame: Updated the color scheme of the background, and updated the button. Visual helps on the
                                 eyes
                                 - Color chooser from W3: https://www.w3schools.com/colors/colors_picker.asp
                                 Button has been moved from root to frame = responsive
+
+
+--v7 Button,Label & User Input: Template created/ reference to be used for later use.
