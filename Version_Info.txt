@@ -65,8 +65,8 @@ v10 Place Documentation : Aquired Place Documentation to help in aid tkinter app
                             Place example created @ weather_app.py
 
 v11 Lower_Frame , Border: Lower_Frame & Border created to provide layout for the program -> weather_app.py
-                        --v11.5 Edit: Blank template created - can be build upon
+                        v11.5 Edit: Blank template created - can be build upon
 
--wor:v12 :
+--v12 Background Added: Added background image to weather_app.py & made a source folder for it called weather_source
 
 

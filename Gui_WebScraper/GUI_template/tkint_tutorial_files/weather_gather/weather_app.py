@@ -1,4 +1,4 @@
-from tkinter_source_file import *
+from weather_source import *
 
 # Screen Size Data
 HEIGHT = 800
@@ -10,6 +10,12 @@ root = Tk()
 # Screen Size
 canvas = Canvas(root, height=HEIGHT, width=WIDTH)
 canvas.pack()
+
+# Application Background
+background_image = PhotoImage(file='images/background/wallhaven-r2eg1w.png')
+background_label = Label(root,image=background_image)
+background_label.place(relwidth=1,relheight=1)
+
 
 # To organize widgets use Frame , bd = border
 frame = Frame(root,bg='#99b3ff', bd=5)
