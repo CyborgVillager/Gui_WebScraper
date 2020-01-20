@@ -60,6 +60,10 @@ v8 Pack Documentation: Pack Documentation for Tkinter -> https://www.tutorialspo
 
 v9 Align Info : align button,text/input as reference
 
---v10 Place Documentation : Aquired Place Documentation to help in aid tkinter app creation
+v10 Place Documentation : Aquired Place Documentation to help in aid tkinter app creation
                             link: https://www.tutorialspoint.com/python/tk_place.htm
                             Place example created @ weather_app.py
+
+--v11 Lower_Frame , Border: Lower_Frame & Border created to provide layout for the program -> weather_app.py
+
+
