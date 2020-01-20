@@ -94,8 +94,11 @@ v16 More Refined Response: Response is more refined, user can see the results in
 
 v17 Weather Info Update: Visualize color change / updated info to give the user more data of the weather.
 
---v18 Min & Comment Info: Comment info & added min/elif temp changes with their corrosp color codes. This also includes
+v18 Min & Comment Info: Comment info & added min/elif temp changes with their corrosp color codes. This also includes
                             adding labels for the temp, wind speed, and humidity
 
+                      --v18.5 Edit: Deleted test_button.py and made weather_data that will hold the necass information
+                                    for the program to run correctly.
 
 
+-wor:19:
