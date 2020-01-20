@@ -9,8 +9,9 @@ class Window(Frame):
         self.init_window()
 
     def init_window(self):
-        self.master.title('Gui Menu')
+        self.master.title('Gui Job Program')
         self.pack(fill=BOTH, expand=1)
+
 
         # Menu Data
         menu = Menu(self.master)
@@ -33,9 +34,10 @@ class Window(Frame):
         edit.add_command(label='Undo')
         # Exit Program
         file.add_command(label='Exit', command=self.client_exit)
-
         # Export Info
         export_info.add_command(label='Export', command=self.client_open)
+
+
 
     # Functions relating to Menu operations
     def client_exit(self):
@@ -50,9 +52,7 @@ class Window(Frame):
 #        exit()
 #### Disabled 4 The Time Being ####
 
-root = Tk()
-root.geometry('500x400')
-
-application = Window(root)
-
-root.mainloop()
+window = Tk()
+window.geometry('500x400')
+application = Window(window)
+window.mainloop()
