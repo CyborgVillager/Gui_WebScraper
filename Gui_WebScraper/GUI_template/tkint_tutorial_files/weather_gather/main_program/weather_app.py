@@ -27,7 +27,8 @@ frame.place(relx=0.5, rely=0.1,relwidth=0.75,relheight=0.1,anchor='n')
 
 # Button Functionaliy
 # command -> runs x,y,z commands
-button = Button(frame, text='Get Weather!', font=40, command=test_function)
+
+button = Button(frame, text='Get Weather!', font=40, command=lambda: test_function(entry.get()))
 # button.pack(side="left", fill='both') -> example on filing the whole left screen to an extent
 # button.pack(side="left", fill='both', expand=True) -> bigger
 # button.grid(row=0,column=0)
