@@ -12,6 +12,8 @@ class Window(Frame):
         self.master.title('Gui Menu')
         self.pack(fill=BOTH, expand=1)
 
+        def client_exit(self):
+            exit()
         # Now creating a menu
         menu = Menu(self.master)
         self.master.config(menu=menu)
@@ -28,7 +30,7 @@ class Window(Frame):
 
         # Once a user has clicked 'Examp' they will see the open button, for now it will just close the
         # program
-        examp.add_command(label='Open', command=self.client_exit)
+        examp.add_command(label='Open', command=self.client_open)
 
         # creates the instance of 'File' which will hold the exit information
         menu.add_cascade(label='File', menu=file)

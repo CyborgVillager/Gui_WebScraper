@@ -26,4 +26,8 @@ v2 Added tkint_files: Add tkint_tutorial_files @ GUI_template its code from
                         Will be making 1-2 more examples of tkint then will convert it to work with the web_scraper file
                         located @ terminal_WebScrap
 
-                 --v2.5 EDIT: README.txt created @ tkint_tutorial_files to help give more info
+                 v2.5 EDIT: README.txt created @ tkint_tutorial_files to help give more info
+
+--v3 Tkint1 Template: Mini template for the GUi program has been complete, will be working on giving the user an option
+                        for their job/career input, select a couple of options from buttons and connect the program
+                        that house the necass data to make this operation complete
