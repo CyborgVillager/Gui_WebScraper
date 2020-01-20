@@ -12,11 +12,14 @@ canvas = Canvas(root, height=HEIGHT, width=WIDTH)
 canvas.pack()
 
 # To organize widgets use Frame
-frame = Frame(root,bg='blue')
+frame = Frame(root,bg='#99b3ff')
 #relwidth = relative width, relheight= relative height
-frame.place(relwidth=1,relheight=1)
+# This makes the frame centered using relx=0.1, rely=0.1 -> Also adjusts with the user's screen
+#frame.place(relx=0.1, rely=0.1,relwidth=0.8,relheight=0.8)
+
+frame.place(relx=0.1, rely=0.1,relwidth=0.8,relheight=0.8)
+button = Button(frame, text='Testing Button', bg='Gray')
 
 
-button = Button(root, text='Testing Button', bg='Gray', fg='red')
 button.pack()
 root.mainloop()

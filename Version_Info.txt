@@ -35,7 +35,7 @@ v3 Tkint1 Template: Mini template for the GUi program has been complete, will be
 v4 Modified Source: modified source, will update basic_tk.py to hold the new data
                     v4 Edit: Improved Source Code
 
---v5 Extra Information: Working on a more recent tkinter documentation/video thanks in part to Keith Galli for uploading
+v5 Extra Information: Working on a more recent tkinter documentation/video thanks in part to Keith Galli for uploading
                         a video discussing this.
                         Updated Python GUI Documentation:
                         https://www.tutorialspoint.com/python/python_gui_programming.htm
@@ -45,3 +45,8 @@ v4 Modified Source: modified source, will update basic_tk.py to hold the new dat
                         The folder weather_gather is in thanks part to Keith Galli for uploading a video on a
                         more updated tkinter tutorial Will be updating this folder with the new information, then
                         will be implementing the new things that I've learned onto the job searching GUI project.
+
+--v6 Button Added to Frame: Updated the color scheme of the background, and updated the button. Visual helps on the
+                                eyes
+                                - Color chooser from W3: https://www.w3schools.com/colors/colors_picker.asp
+                                Button has been moved from root to frame = responsive
