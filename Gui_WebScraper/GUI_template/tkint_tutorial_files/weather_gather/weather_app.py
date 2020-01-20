@@ -13,23 +13,24 @@ canvas.pack()
 
 # To organize widgets use Frame
 frame = Frame(root,bg='#99b3ff')
-#relwidth = relative width, relheight= relative height
+# relwidth = relative width, relheight= relative height
 # This makes the frame centered using relx=0.1, rely=0.1 -> Also adjusts with the user's screen
-#frame.place(relx=0.1, rely=0.1,relwidth=0.8,relheight=0.8)
+# frame.place(relx=0.1, rely=0.1,relwidth=0.8,relheight=0.8)
 
 frame.place(relx=0.1, rely=0.1,relwidth=0.8,relheight=0.8)
 button = Button(frame, text='Testing Button', bg='Gray')
 # button.pack(side="left", fill='both') -> example on filing the whole left screen to an extent
 # button.pack(side="left", fill='both', expand=True) -> bigger
-button.grid(row=0,column=0)
+# button.grid(row=0,column=0)
+button.place(relx=0,rely=0,relwidth=0.25,relheight=0.25)
 
 # Just a Label
 label = Label(frame, text='Hello this is a label', bg='yellow')
-label.grid(row=0,column=1)
+label.place(relx=0.3,rely=0, relwidth=0.45,relheight=.25)
 
 # User Typing Enabled
 entry = Entry(frame, bg='green')
-entry.grid(row=0,column=2)
+entry.place(relx=0.8,rely=0,relwidth=.2,relheight=.3)
 
 
 root.mainloop()
