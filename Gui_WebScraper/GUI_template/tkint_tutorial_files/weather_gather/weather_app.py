@@ -1,4 +1,5 @@
 from weather_source import *
+from test_button import *
 
 # Screen Size Data
 HEIGHT = 800
@@ -23,7 +24,10 @@ frame = Frame(root,bg='#99b3ff', bd=5)
 # This makes the frame centered using relx=0.1, rely=0.1 -> Also adjusts with the user's screen
 # frame.place(relx=0.1, rely=0.1,relwidth=0.8,relheight=0.8)
 frame.place(relx=0.5, rely=0.1,relwidth=0.75,relheight=0.1,anchor='n')
-button = Button(frame, text='Testing Button', font=40)
+
+# Button Functionaliy
+# command -> runs x,y,z commands
+button = Button(frame, text='Get Weather!', font=40, command=test_function)
 # button.pack(side="left", fill='both') -> example on filing the whole left screen to an extent
 # button.pack(side="left", fill='both', expand=True) -> bigger
 # button.grid(row=0,column=0)

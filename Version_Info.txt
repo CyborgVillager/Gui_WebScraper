@@ -67,6 +67,15 @@ v10 Place Documentation : Aquired Place Documentation to help in aid tkinter app
 v11 Lower_Frame , Border: Lower_Frame & Border created to provide layout for the program -> weather_app.py
                         v11.5 Edit: Blank template created - can be build upon
 
---v12 Background Added: Added background image to weather_app.py & made a source folder for it called weather_source
+v12 Background Added: Added background image to weather_app.py & made a source folder for it called weather_source
+
+--v13 User_Input to Print : user input when they click the button 'Get Weather' now prints a response called
+                            Button Clicked. This function program name is called test_button.py / located @
+                            source folder & then imported onto weather_app.py.
+
+                            Afterwords it was made into a command @ a button -> command=test_function
+                            line 30 -> button = Button(frame, text='Get Weather!', font=40, command=test_function)
+
+
 
 
