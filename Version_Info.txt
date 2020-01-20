@@ -33,4 +33,15 @@ v3 Tkint1 Template: Mini template for the GUi program has been complete, will be
                         that house the necass data to make this operation complete
 
 v4 Modified Source: modified source, will update basic_tk.py to hold the new data
-                    --v4 Edit: Improved Source Code
+                    v4 Edit: Improved Source Code
+
+--v5 Extra Information: Working on a more recent tkinter documentation/video thanks in part to Keith Galli for uploading
+                        a video discussing this.
+                        Updated Python GUI Documentation:
+                        https://www.tutorialspoint.com/python/python_gui_programming.htm
+                        Video Discussing the updated info & weather App: https://www.youtube.com/watch?v=D8-snVfekto
+                        His Github: https://github.com/KeithGalli/GUI
+
+                        The folder weather_gather is in thanks part to Keith Galli for uploading a video on a
+                        more updated tkinter tutorial Will be updating this folder with the new information, then
+                        will be implementing the new things that I've learned onto the job searching GUI project.

@@ -9,10 +9,8 @@ class Window(Frame):
 
     # init_window creation
     def init_window(self):
-
         # Title Customiz for the master widget
         self.master.title('GUI Tutorial')
-
         # Widget will take the full space avial of the root's window
         self.pack(fill=BOTH, expand=1)
 
