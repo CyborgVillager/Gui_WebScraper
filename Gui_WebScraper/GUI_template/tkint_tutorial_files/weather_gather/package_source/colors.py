@@ -9,6 +9,7 @@ class color:
    YELLOW = '\033[93m'
    RED = '\033[91m'
 
+
 # Text Style
    BOLD = '\033[1m'
    UNDERLINE = '\033[4m'

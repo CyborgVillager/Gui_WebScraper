@@ -92,7 +92,10 @@ v15 API Aquired : aquired API from https://openweathermap.org/forecast5. User ca
 
 v16 More Refined Response: Response is more refined, user can see the results in terminal
 
---v17 Weather Info Update: Visualize color change / updated info to give the user more data of the weather.
+v17 Weather Info Update: Visualize color change / updated info to give the user more data of the weather.
+
+--v18 Min & Comment Info: Comment info & added min/elif temp changes with their corrosp color codes. This also includes
+                            adding labels for the temp, wind speed, and humidity
 
 
 
