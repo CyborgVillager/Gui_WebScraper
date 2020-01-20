@@ -68,13 +68,13 @@ button = Button(frame, text='Get Weather!', font=40, command=lambda: get_weather
 button.place(relx=.7, relheight=1, relwidth=0.3)
 
 # User Typing Enabled
-entry = Entry(frame, font=40)
+entry = Entry(frame, font=('Roboto',25) )
 entry.place(relwidth=.65, relheight=1)
 
 lower_frame = Frame(root, bg='#99b3ff', bd=10)
 lower_frame.place(relx=.5, rely=.25, relwidth=.75, relheight=.6, anchor='n')
 
-label = Label(lower_frame, )
+label = Label(lower_frame, font=('Roboto',20) )
 label.place(relwidth=1, relheight=1)
 
 root.mainloop()

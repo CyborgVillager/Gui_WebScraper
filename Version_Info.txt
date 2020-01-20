@@ -101,5 +101,10 @@ v18 Min & Comment Info: Comment info & added min/elif temp changes with their co
                                     for the program to run correctly.
 
 
---v19 weather_app1: New weather_app1 to hold the data, will work on weather_app.py to give it access to the custom
+v19 weather_app1: New weather_app1 to hold the data, will work on weather_app.py to give it access to the custom
                     information / data organization. Once this project has been completed for the GUI job/career program.
+
+
+          --v19.5 Edit: Text Font changed to help eyesight
+
+-wor:v20:
