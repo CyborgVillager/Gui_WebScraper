@@ -77,10 +77,18 @@ v13 User_Input to Print : user input when they click the button 'Get Weather' no
                             line 30 -> button = Button(frame, text='Get Weather!', font=40, command=test_function)
 
 
---v14 Updated Source & Organization: updated source folder into package_source, and moved the main program weather_source.py
+v14 Updated Source & Organization: updated source folder into package_source, and moved the main program weather_source.py
                                     to main_program. Made test_button.py into a source folder called secondary_program
                                     and connected to weather_app.py. Changed line 31 to have the following:
                                     command=lambda: test_function(entry.get()))
+
+
+--v15 API Aquired : aquired API from https://openweathermap.org/forecast5. User can now scrap basic info of the state
+                    /city they are choosing from
+                    template to use -> api.openweathermap.org/data/2.5/forecast?q={city name},{country code}
+
+                    Updated test_button.py to include the API functionality & updated weather_app.py @ line 36 to
+                    have get_weather instead of test_function
 
 
 
