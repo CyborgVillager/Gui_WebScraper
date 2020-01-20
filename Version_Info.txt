@@ -83,13 +83,16 @@ v14 Updated Source & Organization: updated source folder into package_source, an
                                     command=lambda: test_function(entry.get()))
 
 
---v15 API Aquired : aquired API from https://openweathermap.org/forecast5. User can now scrap basic info of the state
+v15 API Aquired : aquired API from https://openweathermap.org/forecast5. User can now scrap basic info of the state
                     /city they are choosing from
                     template to use -> api.openweathermap.org/data/2.5/forecast?q={city name},{country code}
 
                     Updated test_button.py to include the API functionality & updated weather_app.py @ line 36 to
                     have get_weather instead of test_function
 
+v16 More Refined Response: Response is more refined, user can see the results in terminal
+
+--v17 Weather Info Update: Visualize color change / updated info to give the user more data of the weather.
 
 
 
