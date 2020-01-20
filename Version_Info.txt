@@ -97,8 +97,9 @@ v17 Weather Info Update: Visualize color change / updated info to give the user 
 v18 Min & Comment Info: Comment info & added min/elif temp changes with their corrosp color codes. This also includes
                             adding labels for the temp, wind speed, and humidity
 
-                      --v18.5 Edit: Deleted test_button.py and made weather_data that will hold the necass information
+                      v18.5 Edit: Deleted test_button.py and made weather_data that will hold the necass information
                                     for the program to run correctly.
 
 
--wor:19:
+--v19 weather_app1: New weather_app1 to hold the data, will work on weather_app.py to give it access to the custom
+                    information / data organization. Once this project has been completed for the GUI job/career program.

@@ -1,5 +1,13 @@
-import requests
+from weather_source import *
 from colors import *
+
+
+def format_response(weather_response):
+    name = weather_response['name']
+    description = 'You\'ve searched for: ', bold, red, weather_response['name'], end
+    # get the first entry & the 'description' as listed in the terminal after print(response.json()) was active
+    temp = 'It\'s currently', red, weather_response['weather'][0]['description'], end, ' at this time.'
+    return str(name) + ' ' + str(description) + ' ' + str(temp)
 
 
 def get_weather(city):
@@ -10,6 +18,7 @@ def get_weather(city):
     params = {'APPID': weather_key, 'q': city, 'units': 'imperial'}
     response = requests.get(url, params=params)
     weather_response = response.json()
+
     # print(response.json())
     print('You\'ve searched for: ', bold, red, weather_response['name'], end)
     # get the first entry & the 'description' as listed in the terminal after print(response.json()) was active
