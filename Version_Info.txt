@@ -32,4 +32,5 @@ v3 Tkint1 Template: Mini template for the GUi program has been complete, will be
                         for their job/career input, select a couple of options from buttons and connect the program
                         that house the necass data to make this operation complete
 
---v4 Modified Source: modified source, will update basic_tk.py to hold the new data
+v4 Modified Source: modified source, will update basic_tk.py to hold the new data
+                    --v4 Edit: Improved Source Code
