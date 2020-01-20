@@ -55,5 +55,7 @@ v6 Button Added to Frame: Updated the color scheme of the background, and update
 v7 Button,Label & User Input: Template created/ reference to be used for later use.
 
 
---v8 Pack Documentation: Pack Documentation for Tkinter -> https://www.tutorialspoint.com/python/tk_pack.htm
+v8 Pack Documentation: Pack Documentation for Tkinter -> https://www.tutorialspoint.com/python/tk_pack.htm
                             v8 is a reference to side, check weather_app.py line 20-30 as an example
+
+--v9 Align Info : align button,text/input as reference
