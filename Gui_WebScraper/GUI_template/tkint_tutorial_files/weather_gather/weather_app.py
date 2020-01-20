@@ -19,15 +19,15 @@ frame = Frame(root,bg='#99b3ff')
 
 frame.place(relx=0.1, rely=0.1,relwidth=0.8,relheight=0.8)
 button = Button(frame, text='Testing Button', bg='Gray')
-button.pack()
+button.pack(side="left")
 
 # Just a Label
 label = Label(frame, text='Hello this is a label', bg='yellow')
-label.pack()
+label.pack(side='right')
 
 # User Typing Enabled
 entry = Entry(frame, bg='green')
-entry.pack()
+entry.pack(side='bottom')
 
 button.pack()
 root.mainloop()
