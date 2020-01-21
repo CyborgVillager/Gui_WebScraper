@@ -57,7 +57,7 @@ v7 Button,Label & User Input: Template created/ reference to be used for later u
 
 v8 Pack Documentation: Pack Documentation for Tkinter -> https://www.tutorialspoint.com/python/tk_pack.htm
                             v8 is a reference to side, check weather_app.py line 20-30 as an example
-
+ ----------------------------    ----------------------------   ------------------------- ------------------------------
 v9 Align Info : align button,text/input as reference
 
 v10 Place Documentation : Aquired Place Documentation to help in aid tkinter app creation
@@ -89,7 +89,7 @@ v15 API Aquired : aquired API from https://openweathermap.org/forecast5. User ca
 
                     Updated test_button.py to include the API functionality & updated weather_app.py @ line 36 to
                     have get_weather instead of test_function
-
+ ----------------------------    ----------------------------   ------------------------- ------------------------------
 v16 More Refined Response: Response is more refined, user can see the results in terminal
 
 v17 Weather Info Update: Visualize color change / updated info to give the user more data of the weather.
