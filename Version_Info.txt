@@ -107,4 +107,7 @@ v19 weather_app1: New weather_app1 to hold the data, will work on weather_app.py
 
           --v19.5 Edit: Text Font changed to help eyesight
 
--wor:v20:
+--v20 Added Template for GUI_Job_Search <-x_x->: Added monster_scrap.py/ created GUI_Job_Search . As of now, its not
+                                                    functional/bugs are present. Will update with functional code,
+                                                    putting in custom info that was created a while back during my fall
+                                                    2019 semester, and with the updated tkint info.
