@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61d2e79a-1cb6-478f-ba89-187d05e33ea3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Version_Info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Version_Info.txt" afterDir="false" />
-    </list>
+    <list default="true" id="61d2e79a-1cb6-478f-ba89-187d05e33ea3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,7 +54,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Gui_WebScraper/GUI_template" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Automate_Py_Learning" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
@@ -208,7 +220,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579516438048</updated>
       <workItem from="1579516453799" duration="260000" />
-      <workItem from="1579517238382" duration="26450000" />
+      <workItem from="1579517238382" duration="26865000" />
     </task>
     <servers />
   </component>
@@ -223,26 +235,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="670" y="377" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1579549340977" />
-    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1579534368170">
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1579566745571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1579534368170" />
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1579566122284">
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1579566745571" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1579566747822">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1579566122284" />
-    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1579566122284">
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1579566747822" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1579566747822">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1579566122284" />
-    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1579566122283">
+    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1579566747822" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1579566747822">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1579566122283" />
-    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1579566122284">
+    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1579566747822" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1579566747822">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1579566122284" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1579566747822" />
     <state x="501" y="307" key="SettingsEditor" timestamp="1579549396610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
