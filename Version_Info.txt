@@ -115,4 +115,4 @@ v20 Added Template for GUI_Job_Search <-x_x->: Added monster_scrap.py/ created G
 v21 Added Main_Shop.py : Added Main_Shop.py / place it onto Main_Shop_Template to use as reference
                             link: https://github.com/CyborgVillager/jonathan_almawi_site/tree/master/resumesite/downloads
 
--wor:22:
+--v22 Re-Activated: This project has been reactivated will be updating in a bit

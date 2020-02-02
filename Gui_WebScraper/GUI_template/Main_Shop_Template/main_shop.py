@@ -19,6 +19,7 @@ from tkinter import messagebox
 import sqlite3
 import os
 
+
 #Button Urls
 github_url = 'https://github.com/CyborgVillager?tab=repositories'
 bitchute_url = 'https://www.bitchute.com/channel/jonathanai/'
