@@ -117,4 +117,6 @@ v21 Added Main_Shop.py : Added Main_Shop.py / place it onto Main_Shop_Template t
 
 v22 Re-Activated: This project has been reactivated will be updating in a bit
 
-                   --v22.5 Edit: Central Time 6PM will be re-updating
+                   v22.5 Edit: Central Time 6PM will be re-updating
+
+--v23 Project Start: Project Start
