@@ -54,7 +54,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Grand_Expansion" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
@@ -76,7 +76,7 @@
       <recent name="D:\PyProject\GitRespo\Gui_WebScraper\Gui_WebScraper\GUI_template\tkint_tutorial_files\weather_gather" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main_shop">
+  <component name="RunManager" selected="Python.monster_gui_scraper">
     <configuration name="main_shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Gui_WebScraper" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,6 +113,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui_WebScraper/GUI_template/GUI_Job_Search/monster_gui_scraper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="monster_scrap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Gui_WebScraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui_WebScraper/terminal_WebScrap" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui_WebScraper/terminal_WebScrap/monster_scrap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,35 +187,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="weather_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Gui_WebScraper" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui_WebScraper/GUI_template/tkint_tutorial_files/weather_gather/main_program/secondary_program" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui_WebScraper/GUI_template/tkint_tutorial_files/weather_gather/main_program/secondary_program/weather_data.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main_shop" />
         <item itemvalue="Python.monster_gui_scraper" />
+        <item itemvalue="Python.monster_scrap" />
+        <item itemvalue="Python.main_shop" />
         <item itemvalue="Python.weather_app1" />
         <item itemvalue="Python.weather_app" />
-        <item itemvalue="Python.weather_data" />
       </list>
     </recent_temporary>
   </component>
@@ -240,22 +240,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1580682534003" />
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1580682535084">
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1580699661832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1580682535084" />
-    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1580682535084">
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1580699661832" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1580699661832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1580682535084" />
-    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1580682535084">
+    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1580699661832" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1580699661832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1580682535084" />
-    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1580682535084">
+    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1580699661832" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1580699661832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1580682535084" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1580699661832" />
     <state x="501" y="307" key="SettingsEditor" timestamp="1579549396610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -283,13 +283,13 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Gui_WebScraper$tkinter_input.coverage" NAME="tkinter_input Coverage Results" MODIFIED="1579536045638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/tkint_tutorial_files/tkint1" />
-    <SUITE FILE_PATH="coverage/Gui_WebScraper$monster_scrap.coverage" NAME="monster_scrap Coverage Results" MODIFIED="1579517622676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/terminal_WebScrap" />
+    <SUITE FILE_PATH="coverage/Gui_WebScraper$monster_scrap.coverage" NAME="monster_scrap Coverage Results" MODIFIED="1580699609528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/terminal_WebScrap" />
     <SUITE FILE_PATH="coverage/Gui_WebScraper$weather_data.coverage" NAME="weather_data Coverage Results" MODIFIED="1579554763666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/tkint_tutorial_files/weather_gather/main_program/secondary_program" />
     <SUITE FILE_PATH="coverage/Gui_WebScraper$quit_button_functionality_tkinter2.coverage" NAME="quit_button_functionality_tkinter2 Coverage Results" MODIFIED="1579534800210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/tkint_tutorial_files/tkint_version0" />
     <SUITE FILE_PATH="coverage/Gui_WebScraper$basic_tki.coverage" NAME="basic_tki Coverage Results" MODIFIED="1579536807579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/tkint_tutorial_files/tkint1" />
     <SUITE FILE_PATH="coverage/Gui_WebScraper$main_shop.coverage" NAME="main_shop Coverage Results" MODIFIED="1580681233193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/Main_Shop_Template" />
     <SUITE FILE_PATH="coverage/Gui_WebScraper$weather_app.coverage" NAME="weather_app Coverage Results" MODIFIED="1579556794094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/tkint_tutorial_files/weather_gather" />
-    <SUITE FILE_PATH="coverage/Gui_WebScraper$monster_gui_scraper.coverage" NAME="monster_gui_scraper Coverage Results" MODIFIED="1579559147572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/GUI_Job_Search" />
+    <SUITE FILE_PATH="coverage/Gui_WebScraper$monster_gui_scraper.coverage" NAME="monster_gui_scraper Coverage Results" MODIFIED="1580699661828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/GUI_Job_Search" />
     <SUITE FILE_PATH="coverage/Gui_WebScraper$weather_app1.coverage" NAME="weather_app1 Coverage Results" MODIFIED="1579558405130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/tkint_tutorial_files/weather_gather/main_program" />
     <SUITE FILE_PATH="coverage/Gui_WebScraper$kill_question.coverage" NAME="kill_question Coverage Results" MODIFIED="1579518091157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/tkint_tutorial_files/tkint_version0" />
     <SUITE FILE_PATH="coverage/Gui_WebScraper$menu_tkinter3.coverage" NAME="menu_tkinter3 Coverage Results" MODIFIED="1579534122238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/tkint_tutorial_files/tkint_version0" />
