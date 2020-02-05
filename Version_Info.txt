@@ -139,5 +139,8 @@ v25 job_search_gui: Made a new .py file called job_search_gui which is has the b
                         Link: http://www.science.smith.edu/dftwiki/images/3/3d/TkInterColorCharts.png
 
 
---v26 Job Link: Currently implementing the link when-ever a user searched for a job name, they will
+v26 Job Link: Currently implementing the link when-ever a user searched for a job name, they will
                 be given the info as well as a link for them to click on.
+
+                --v26.5 Edit Link Added: now will be working on a clickable link for the user to use/see the
+                                    job data, without cutting and pasting it

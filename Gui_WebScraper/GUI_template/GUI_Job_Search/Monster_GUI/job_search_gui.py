@@ -79,7 +79,7 @@ def urlscrap():
         job_text_info.pack()
 
         # Job Title
-        job_text_info.insert(tk.END, 'Job Title: ' + job_title_element.text.strip() + '\n')
+        job_text_info.insert(tk.END, 'Job Title: ' + posted_job.text.strip() + '\n')
 
         # Company Name
         job_text_info.insert(tk.END, 'Company Name: ')
@@ -89,8 +89,9 @@ def urlscrap():
         job_text_info.insert(tk.END, 'Location: ' + location_element.text.strip() + '\n')
 
         # Link
-        job_text_info.insert(tk.END, posted_job.text.strip())
-        job_text_info.insert(tk.END, f"Link: {link}\n")
+        #job_text_info.insert(tk.END, posted_job.text.strip() + '\n')
+        job_link = posted_job.find('a')['href']
+        job_text_info.insert(tk.END, 'Link: ' + (f"{job_link}\n"))
 
 
 
