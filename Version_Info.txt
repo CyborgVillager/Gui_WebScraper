@@ -119,4 +119,7 @@ v22 Re-Activated: This project has been reactivated will be updating in a bit
 
                    v22.5 Edit: Central Time 6PM will be re-updating
 
---v23 Project Start: Project Start
+v23 Project Start: Project Start
+
+--v24 Monster_GUI Change: modified the file monster_main.py to have the basic template, with its own source folder
+                            and data to hold it.

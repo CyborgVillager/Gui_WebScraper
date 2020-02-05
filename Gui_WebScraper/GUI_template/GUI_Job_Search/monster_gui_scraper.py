@@ -25,14 +25,14 @@ def format_response(weather):
 
 
 def get_weather(city):
-
-    url = 'https://www.monster.com/jobs/search/?q='
-
+    weather_key = '3d7102c18ab158257bce2ab1be33d4df'
+    url = 'https://api.openweathermap.org/data/2.5/weather'
+    page = requests.get(url)
     page = requests.get(url)
     soup = BeautifulSoup(page.content, 'html.parser')
 
     results = soup.find(id='ResultsContainer')
-
+    params = {'APPID': weather_key, 'q': city, 'units': 'imperial'}
     response = requests.get(url, params=params)
     weather = response.json()
 
@@ -61,7 +61,7 @@ frame.place(relx=0.5, rely=0.1, relwidth=0.75, relheight=0.1, anchor='n')
 # Button Functionaliy
 # command -> runs x,y,z commands
 
-button = Button(frame, text='Search', font=40, command=lambda: get_weather(entry.get()))
+button = Button(frame, text="Search", font=40, command=lambda: get_weather(entry.get()))
 
 button.place(relx=.7, relheight=1, relwidth=0.3)
 
