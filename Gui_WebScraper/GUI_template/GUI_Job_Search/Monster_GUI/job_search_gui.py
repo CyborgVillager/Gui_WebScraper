@@ -73,28 +73,36 @@ def urlscrap():
 
         # Results
         job_text_info = tk.Text(myapp, background='gray25', wrap=CHAR, yscrollcommand=scrollbar.set, width=220)
-        job_text_info.configure(font=(BOLD, 12), fg = 'red')
+        job_text_info.configure(font=(BOLD, 12), fg='orange')
         # Pack
         # link for more info https://www.tutorialspoint.com/python/tk_pack.htm
         job_text_info.pack()
 
-        job_text_info.insert(tk.END, 'Company Name: ' + company_name_element.text.strip() + '\n')
-        job_text_info.insert(tk.END, 'Location: ' + location_element.text.strip())
+        # Job Title
+        job_text_info.insert(tk.END, 'Job Title: ' + job_title_element.text.strip() + '\n')
 
-        job_title = tk.Text(myapp,  wrap=CHAR)
-        job_title.insert(tk.END, 'Job Title: ' + job_title_element.text.strip() + '\n')
-        job_title.configure(font=(BOLD, 12), fg = 'blue')
-        job_title.pack()
+        # Company Name
+        job_text_info.insert(tk.END, 'Company Name: ')
+        job_text_info.insert(tk.END, company_name_element.text.strip() + '\n')
+
+        # Location
+        job_text_info.insert(tk.END, 'Location: ' + location_element.text.strip() + '\n')
+
+        # Link
+        job_text_info.insert(tk.END, posted_job.text.strip())
+        job_text_info.insert(tk.END, f"Link: {link}\n")
 
 
 
+        # Scroll Bar
         scrollbar.config(command=job_text_info.yview)
-        f.config(state=DISABLED)
+
+        result_from_monster_scrap.config(state=DISABLED)
 
 
 # Scrapper button
-f = Button(myapp, text="Scrap and show text from site", command=urlscrap)
-f.pack()
+result_from_monster_scrap = Button(myapp, text="Search", command=urlscrap)
+result_from_monster_scrap.pack()
 
 # start the program
 myapp.mainloop()

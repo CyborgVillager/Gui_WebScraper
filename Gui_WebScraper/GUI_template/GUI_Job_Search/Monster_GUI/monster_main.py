@@ -1,18 +1,3 @@
-'''''''''
-A program that stores dvd information:
-Title,Author
-Year,ISBN, Quantity
-
-User can:
-View all records
-Add Books
-Update Books
-Add to Cart
-Checkout Cart
-Delete Selected
-Exit
-'''''''''
-
 from packages import *
 from colors import *
 
