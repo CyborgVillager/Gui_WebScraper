@@ -89,11 +89,9 @@ def urlscrap():
         job_text_info.insert(tk.END, 'Location: ' + location_element.text.strip() + '\n')
 
         # Link
-        #job_text_info.insert(tk.END, posted_job.text.strip() + '\n')
+        # job_text_info.insert(tk.END, posted_job.text.strip() + '\n')
         job_link = posted_job.find('a')['href']
-        job_text_info.insert(tk.END, 'Link: ' + (f"{job_link}\n"))
-
-
+        job_text_info.insert(tk.END, 'Link: ' + f"{job_link}\n")
 
         # Scroll Bar
         scrollbar.config(command=job_text_info.yview)

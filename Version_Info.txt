@@ -142,5 +142,11 @@ v25 job_search_gui: Made a new .py file called job_search_gui which is has the b
 v26 Job Link: Currently implementing the link when-ever a user searched for a job name, they will
                 be given the info as well as a link for them to click on.
 
-                --v26.5 Edit Link Added: now will be working on a clickable link for the user to use/see the
-                                    job data, without cutting and pasting it
+                v26.5 Edit Link Added: now will be working on a clickable link for the user to use/see the
+                                    job data, without cutting and pasting it.
+
+
+
+--v27 A.I Dev: will be working on this respo in a bit, and be improving the concept to be more visually pleasing &
+                easier to use for the average day user. It will be similiar to monster_main_gui.py.
+                Since its 2/5/20 will be re-igniting the ride for A.I development.
