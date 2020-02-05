@@ -28,7 +28,6 @@ def get_weather(city):
     weather_key = '3d7102c18ab158257bce2ab1be33d4df'
     url = 'https://api.openweathermap.org/data/2.5/weather'
     page = requests.get(url)
-    page = requests.get(url)
     soup = BeautifulSoup(page.content, 'html.parser')
 
     results = soup.find(id='ResultsContainer')

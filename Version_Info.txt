@@ -121,5 +121,16 @@ v22 Re-Activated: This project has been reactivated will be updating in a bit
 
 v23 Project Start: Project Start
 
---v24 Monster_GUI Change: modified the file monster_main.py to have the basic template, with its own source folder
+v24 Monster_GUI Change: modified the file monster_main.py to have the basic template, with its own source folder
                             and data to hold it.
+
+--v25 job_search_gui: Made a new .py file called job_search_gui which is has the basic model of scrapping
+                        monster.com site.
+
+                        Forked a respo from pbrzoska024 which includes saving the info onto a .txt or csv format,
+                        this will be handy for future updates for this mini project.
+                        Link : https://github.com/pbrzoska024/Web-Scraper-with-GUI-V.2
+
+
+                        As of now implementing colors to help the user see which information they want
+                        to see, such as the job location, occupation , etc

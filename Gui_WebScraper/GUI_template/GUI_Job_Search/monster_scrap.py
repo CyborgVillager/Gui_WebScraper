@@ -21,9 +21,7 @@ job_elements = results.find_all('section', class_='card-content')
 #  page link that they have provided @ url
 
 for job_element in job_elements:
-    '''  print(job_elements, end='\n'*2)
-# This shows the info regarding the jobs in a bit more in-depth info
-'''
+
     job_title_element = job_element.find('h2', class_='title')
     # Further job filtering to ensure the user gets the job postings that they want to see
     job_filter = results.find_all('h2', string=lambda text:user_job_want in text.lower())

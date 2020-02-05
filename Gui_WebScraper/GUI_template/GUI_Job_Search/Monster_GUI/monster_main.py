@@ -19,26 +19,21 @@ from colors import *
 # Button Urls
 github_url = 'https://github.com/CyborgVillager?tab=repositories'
 bitchute_url = 'https://www.bitchute.com/channel/jonathanai/'
-credits_text = 'credits.txt'
+
+
+
+def get_user_job_search_data(entry1, entry4):
+    user_site_combination = 'https://www.monster.com/jobs/search/?q=' + entry1 + '&where=' + entry4
+    url = user_site_combination
+    page = requests.get(url)
+
+    soup = BeautifulSoup(page.content, 'html.parser')
+    results = soup.find(id='ResultsContainer')
+
+
 
 
 ##Functions##
-# binded to an widget event its called event - get_selected_row
-def get_selected_row(event):
-    try:
-        global selected_tuple
-        index = list1.curselection()[0]
-        selected_tuple = list1.get(index)
-        # print(selected_tuple[0])
-        entry1.delete(0, END)
-        entry1.insert(END, selected_tuple[1])
-        entry4.delete(0, END)
-        entry4.insert(END, selected_tuple[4])
-
-
-    except IndexError:
-        pass
-
 
 window = Tk()
 
@@ -73,14 +68,11 @@ list1.grid(row=3, column=0, rowspan=6, columnspan=2)
 ####Entries End####
 
 
-###Scroll Bar Start###
-# scrollbar location
-scrollbar1 = Scrollbar(window)
-scrollbar1.grid(row=2, column=2, rowspan=6)  # rowspan - centered
 
-# Apply scrollbar config to list
-list1.configure(yscrollcommand=scrollbar1.set)
-scrollbar1.configure(command=list1.yview)
+
+
+
+
 # Binding the list t get the the selected row
 # From user input
 list1.bind('<<ListboxSelect>>', get_selected_row)
@@ -91,13 +83,7 @@ list1.bind('<<ListboxSelect>>', get_selected_row)
 
 #### Button Start ####
 # Search
-def get_user_job_search_data(entry1, entry4):
-    user_site_combination = 'https://www.monster.com/jobs/search/?q=' + entry1 + '&where=' + entry4
-    url = user_site_combination
-    page = requests.get(url)
 
-    soup = BeautifulSoup(page.content, 'html.parser')
-    results = soup.find(id='ResultsContainer')
 
 
 searchbt = Button(window, text='Search', width=15, command=lambda: get_user_job_search_data(entry1.get(), entry4.get()))
