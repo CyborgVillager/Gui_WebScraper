@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="61d2e79a-1cb6-478f-ba89-187d05e33ea3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Version_Info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Version_Info.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,7 +245,8 @@
       <workItem from="1580748728421" duration="320000" />
       <workItem from="1580750464970" duration="12000" />
       <workItem from="1580772263313" duration="5544000" />
-      <workItem from="1580862665373" duration="12734000" />
+      <workItem from="1580862665373" duration="12795000" />
+      <workItem from="1581890956135" duration="168000" />
     </task>
     <servers />
   </component>
@@ -269,25 +269,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1580862661835" />
-    <state width="1317" height="55" key="GridCell.Tab.0.bottom" timestamp="1580875359469">
+    <state width="1332" height="57" key="GridCell.Tab.0.bottom" timestamp="1581891123383">
       <screen x="-1360" y="91" width="1360" height="728" />
     </state>
-    <state width="1317" height="55" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@-1360.91.1360.728" timestamp="1580875359469" />
+    <state width="1332" height="57" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@-1360.91.1360.728" timestamp="1581891123383" />
     <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1580862663520" />
-    <state width="1317" height="55" key="GridCell.Tab.0.center" timestamp="1580875359469">
+    <state width="1332" height="57" key="GridCell.Tab.0.center" timestamp="1581891123383">
       <screen x="-1360" y="91" width="1360" height="728" />
     </state>
-    <state width="1317" height="55" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@-1360.91.1360.728" timestamp="1580875359469" />
+    <state width="1332" height="57" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@-1360.91.1360.728" timestamp="1581891123383" />
     <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1580862663520" />
-    <state width="1317" height="55" key="GridCell.Tab.0.left" timestamp="1580875359469">
+    <state width="1332" height="57" key="GridCell.Tab.0.left" timestamp="1581891123383">
       <screen x="-1360" y="91" width="1360" height="728" />
     </state>
-    <state width="1317" height="55" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@-1360.91.1360.728" timestamp="1580875359469" />
+    <state width="1332" height="57" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@-1360.91.1360.728" timestamp="1581891123383" />
     <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1580862663520" />
-    <state width="1317" height="55" key="GridCell.Tab.0.right" timestamp="1580875359469">
+    <state width="1332" height="57" key="GridCell.Tab.0.right" timestamp="1581891123383">
       <screen x="-1360" y="91" width="1360" height="728" />
     </state>
-    <state width="1317" height="55" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@-1360.91.1360.728" timestamp="1580875359469" />
+    <state width="1332" height="57" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@-1360.91.1360.728" timestamp="1581891123383" />
     <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1580862663520" />
     <state x="501" y="307" key="SettingsEditor" timestamp="1580748808711">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -297,10 +297,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="663" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1580750465408" />
-    <state x="1920" y="8" width="1006" height="630" maximized="true" key="dock-window-1" timestamp="1580870012808">
+    <state x="1920" y="8" width="1006" height="630" maximized="true" key="dock-window-1" timestamp="1581890963802">
       <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state x="1920" y="8" width="1006" height="630" maximized="true" key="dock-window-1/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@-1360.91.1360.728" timestamp="1580870012808" />
+    <state x="1920" y="8" width="1006" height="630" maximized="true" key="dock-window-1/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@-1360.91.1360.728" timestamp="1581890963802" />
     <state x="1920" y="94" width="1376" height="719" maximized="true" key="dock-window-1/0.0.1920.1040/1920.0.1360.728/-1360.91.1360.728/329.-1024.1280.984@0.0.1920.1040" timestamp="1579534714265" />
     <state x="1920" y="0" width="1376" height="719" key="dock-window-2" timestamp="1579555916577">
       <screen x="1920" y="0" width="1360" height="728" />
@@ -325,7 +325,7 @@
     <SUITE FILE_PATH="coverage/Gui_WebScraper$test.coverage" NAME="test Coverage Results" MODIFIED="1580798728714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/GUI_Job_Search" />
     <SUITE FILE_PATH="coverage/Gui_WebScraper$main_shop.coverage" NAME="main_shop Coverage Results" MODIFIED="1580869838738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/Main_Shop_Template" />
     <SUITE FILE_PATH="coverage/Gui_WebScraper$weather_app.coverage" NAME="weather_app Coverage Results" MODIFIED="1579556794094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/tkint_tutorial_files/weather_gather" />
-    <SUITE FILE_PATH="coverage/Gui_WebScraper$monster_gui_scraper.coverage" NAME="monster_gui_scraper Coverage Results" MODIFIED="1580875359465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/GUI_Job_Search" />
+    <SUITE FILE_PATH="coverage/Gui_WebScraper$monster_gui_scraper.coverage" NAME="monster_gui_scraper Coverage Results" MODIFIED="1581890961166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/GUI_Job_Search" />
     <SUITE FILE_PATH="coverage/Gui_WebScraper$weather_app1.coverage" NAME="weather_app1 Coverage Results" MODIFIED="1579558405130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/tkint_tutorial_files/weather_gather/main_program" />
     <SUITE FILE_PATH="coverage/Gui_WebScraper$kill_question.coverage" NAME="kill_question Coverage Results" MODIFIED="1579518091157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/tkint_tutorial_files/tkint_version0" />
     <SUITE FILE_PATH="coverage/Gui_WebScraper$menu_tkinter3.coverage" NAME="menu_tkinter3 Coverage Results" MODIFIED="1579534122238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui_WebScraper/GUI_template/tkint_tutorial_files/tkint_version0" />

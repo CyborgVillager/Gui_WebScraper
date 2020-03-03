@@ -147,6 +147,8 @@ v26 Job Link: Currently implementing the link when-ever a user searched for a jo
 
 
 
---v27 A.I Dev: will be working on this respo in a bit, and be improving the concept to be more visually pleasing &
+v27 A.I Dev: will be working on this respo in a bit, and be improving the concept to be more visually pleasing &
                 easier to use for the average day user. It will be similiar to monster_main_gui.py.
                 Since its 2/5/20 will be re-igniting the ride for A.I development.
+
+--v28 Added License: added license
